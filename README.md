@@ -1,6 +1,6 @@
 ## Welcome to GitHub Pages
 
-henlo, is me, [Birb](http://google.com/birb)
+henlo, is me, [Birb](https://www.google.com/search?q=birb&hl=no&source=lnms&tbm=isch&sa=X&ved=0ahUKEwjsvLKnjbPeAhULkywKHTCABr8Q_AUIDigB&biw=1536&bih=754&dpr=1.25#imgrc=Kacl0rVz5lZeUM:)
 
 Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
 
